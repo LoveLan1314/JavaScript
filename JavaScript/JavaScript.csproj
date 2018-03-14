@@ -76,14 +76,30 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="2\1.html" />
-    <Content Include="3\1.html" />
     <Content Include="3\1.js" />
+    <Content Include="3\AddExample01.html" />
+    <Content Include="3\AddExample02.html" />
+    <Content Include="3\AddExample03.html" />
     <Content Include="3\BitwiseAndExample01.html" />
     <Content Include="3\BitwiseNotExample01.html" />
     <Content Include="3\BitwiseOrExample01.html" />
     <Content Include="3\BitwiseXorExample01.html" />
     <Content Include="3\BooleanExample01.html" />
     <Content Include="3\BooleanExample02.html" />
+    <Content Include="3\BreakStatementExample01.html" />
+    <Content Include="3\BreakStatementExample02.html" />
+    <Content Include="3\ContinueStatementExample01.html" />
+    <Content Include="3\ContinueStatementExample02.html" />
+    <Content Include="3\DoWhileStatementExample01.html" />
+    <Content Include="3\EqualityOperatorsExample02.html" />
+    <Content Include="3\EqualityOperatorsExample03.html" />
+    <Content Include="3\ForInStatementExample01.html" />
+    <Content Include="3\ForStatementExample01.html" />
+    <Content Include="3\ForStatementExample02.html" />
+    <Content Include="3\ForStatementExample03.html" />
+    <Content Include="3\ForStatementExample04.html" />
+    <Content Include="3\IfStatementExample01.html" />
+    <Content Include="3\IfStatementExample02.html" />
     <Content Include="3\IncrementDecrementExample01.html" />
     <Content Include="3\IncrementDecrementExample02.html" />
     <Content Include="3\IncrementDecrementExample03.html" />
@@ -106,6 +122,7 @@
     <Content Include="3\StringExample01.html" />
     <Content Include="3\StringExample02.html" />
     <Content Include="3\StringExample03.html" />
+    <Content Include="3\SubtractExample01.html" />
     <Content Include="3\TypeofExample01.html" />
     <Content Include="3\UnaryPlusMinusExample01.html" />
     <Content Include="3\UnaryPlusMinusExample02.html" />
@@ -115,6 +132,7 @@
     <Content Include="3\UndefinedExample04.html" />
     <Content Include="3\UnsignedRightShiftExample01.html" />
     <Content Include="3\UnsignedRightShiftExample02.html" />
+    <Content Include="3\WhileStatementExample01.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
