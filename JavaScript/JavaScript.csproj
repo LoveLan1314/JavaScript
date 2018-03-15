@@ -123,6 +123,10 @@
     <Content Include="3\StringExample02.html" />
     <Content Include="3\StringExample03.html" />
     <Content Include="3\SubtractExample01.html" />
+    <Content Include="3\SwitchStatementExample01.html" />
+    <Content Include="3\SwitchStatementExample02.html" />
+    <Content Include="3\SwitchStatementExample03.html" />
+    <Content Include="3\SwitchStatementExample04.html" />
     <Content Include="3\TypeofExample01.html" />
     <Content Include="3\UnaryPlusMinusExample01.html" />
     <Content Include="3\UnaryPlusMinusExample02.html" />
@@ -133,6 +137,7 @@
     <Content Include="3\UnsignedRightShiftExample01.html" />
     <Content Include="3\UnsignedRightShiftExample02.html" />
     <Content Include="3\WhileStatementExample01.html" />
+    <Content Include="3\WithStatementExample01.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
