@@ -98,6 +98,16 @@
     <Content Include="3\ForStatementExample02.html" />
     <Content Include="3\ForStatementExample03.html" />
     <Content Include="3\ForStatementExample04.html" />
+    <Content Include="3\FunctionExample01.html" />
+    <Content Include="3\FunctionExample02.html" />
+    <Content Include="3\FunctionExample03.html" />
+    <Content Include="3\FunctionExample04.html" />
+    <Content Include="3\FunctionExample05.html" />
+    <Content Include="3\FunctionExample06.html" />
+    <Content Include="3\FunctionExample07.html" />
+    <Content Include="3\FunctionExample08.html" />
+    <Content Include="3\FunctionExample09.html" />
+    <Content Include="3\FunctionExample10.html" />
     <Content Include="3\IfStatementExample01.html" />
     <Content Include="3\IfStatementExample02.html" />
     <Content Include="3\IncrementDecrementExample01.html" />
