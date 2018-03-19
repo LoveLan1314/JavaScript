@@ -151,6 +151,12 @@
     <Content Include="4\DeterminingTypeExample01.html" />
     <Content Include="4\DynamicPropertiesExample01.html" />
     <Content Include="4\DynamicPropertiesExample02.html" />
+    <Content Include="4\ExecutionContextExample01.html" />
+    <Content Include="4\ExecutionContextExample03.html" />
+    <Content Include="4\ExecutionContextExample04.html" />
+    <Content Include="4\ExecutionContextExample05.html" />
+    <Content Include="4\ExecutionContextExample06.html" />
+    <Content Include="4\ExecutionContextExample07.html" />
     <Content Include="4\FunctionArgumentsExample01.html" />
     <Content Include="4\FunctionArgumentsExample02.html" />
     <Content Include="Web.config" />
