@@ -159,6 +159,18 @@
     <Content Include="4\ExecutionContextExample07.html" />
     <Content Include="4\FunctionArgumentsExample01.html" />
     <Content Include="4\FunctionArgumentsExample02.html" />
+    <Content Include="5\ArrayTypeExample01.html" />
+    <Content Include="5\ArrayTypeExample02.html" />
+    <Content Include="5\ArrayTypeExample03.html" />
+    <Content Include="5\ArrayTypeExample04.html" />
+    <Content Include="5\ArrayTypeExample05.html" />
+    <Content Include="5\ArrayTypeExample06.html" />
+    <Content Include="5\ArrayTypeExample07.html" />
+    <Content Include="5\ArrayTypeExample08.html" />
+    <Content Include="5\ArrayTypeJoinExample01.html" />
+    <Content Include="5\ObjectTypeExample01.html" />
+    <Content Include="5\ObjectTypeExample02.html" />
+    <Content Include="5\ObjectTypeExample04.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
