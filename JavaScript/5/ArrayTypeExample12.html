@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    var colors = new Array();                       //创建一个数组
+    var count = colors.unshift("red", "green");     //推入两项
+    alert(count);                                   //2
+
+    count = colors.unshift("black");                //推入另一项
+    alert(count);                                   //3
+
+    var item = colors.pop();                        //取得最后一项
+    alert(item);                                    //"green"
+    alert(colors.length);                           //2
+</script>

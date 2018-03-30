@@ -167,6 +167,10 @@
     <Content Include="5\ArrayTypeExample06.html" />
     <Content Include="5\ArrayTypeExample07.html" />
     <Content Include="5\ArrayTypeExample08.html" />
+    <Content Include="5\ArrayTypeExample09.html" />
+    <Content Include="5\ArrayTypeExample10.html" />
+    <Content Include="5\ArrayTypeExample11.html" />
+    <Content Include="5\ArrayTypeExample12.html" />
     <Content Include="5\ArrayTypeJoinExample01.html" />
     <Content Include="5\ObjectTypeExample01.html" />
     <Content Include="5\ObjectTypeExample02.html" />
