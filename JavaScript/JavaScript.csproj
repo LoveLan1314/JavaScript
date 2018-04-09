@@ -159,6 +159,7 @@
     <Content Include="4\ExecutionContextExample07.html" />
     <Content Include="4\FunctionArgumentsExample01.html" />
     <Content Include="4\FunctionArgumentsExample02.html" />
+    <Content Include="5\ArrayTypeConcatExample01.html" />
     <Content Include="5\ArrayTypeExample01.html" />
     <Content Include="5\ArrayTypeExample02.html" />
     <Content Include="5\ArrayTypeExample03.html" />
@@ -171,7 +172,13 @@
     <Content Include="5\ArrayTypeExample10.html" />
     <Content Include="5\ArrayTypeExample11.html" />
     <Content Include="5\ArrayTypeExample12.html" />
+    <Content Include="5\ArrayTypeExample13.html" />
+    <Content Include="5\ArrayTypeExample14.html" />
+    <Content Include="5\ArrayTypeExample15.html" />
+    <Content Include="5\ArrayTypeExample16.html" />
     <Content Include="5\ArrayTypeJoinExample01.html" />
+    <Content Include="5\ArrayTypeSliceExample01.html" />
+    <Content Include="5\ArrayTypeSpliceExample01.html" />
     <Content Include="5\ObjectTypeExample01.html" />
     <Content Include="5\ObjectTypeExample02.html" />
     <Content Include="5\ObjectTypeExample04.html" />

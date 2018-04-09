@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    var colors = ["red", "green", "blue"];
+    var removed = colors.splice(0, 1);                  //删除第一项
+    alert(colors);                                      //green,blue
+    alert(removed);                                     //red，返回的数组中只包含一项
+    removed = colors.splice(1, 0, "yellow", "orange");  //从位置1开始插入两项
+    alert(colors);                                      //green,yellow,orange,blue
+    alert(removed);                                     //返回的是一个空数组
+
+    removed = colors.splice(1, 1, "red", "purple");     //插入两项，删除一项
+    alert(colors);                                      //green,red,purple,orange,blue
+    alert(removed);                                     //yellow，返回的数组中只包含一项
+</script>
