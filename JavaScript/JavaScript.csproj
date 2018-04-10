@@ -191,6 +191,7 @@
     <Content Include="5\ObjectTypeExample01.html" />
     <Content Include="5\ObjectTypeExample02.html" />
     <Content Include="5\ObjectTypeExample04.html" />
+    <Content Include="5\RegExpInstancePropertiesExample01.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
