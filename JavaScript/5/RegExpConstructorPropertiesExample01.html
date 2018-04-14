@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    var text = "this has been a short summer";
+    var pattern = /(.)hort/g;
+
+    /*
+     * 注意：Opera不支持input、lastMatch、lastParen和multiline属性
+     * Internet Explorer不支持multiline属性
+     */
+    if (pattern.test(text)) {
+        alert(RegExp.input);            //this has been a short summer
+        alert(RegExp.leftContext);      //this has been a
+        alert(RegExp.rightContext);     //summer
+        alert(RegExp.lastMatch);        //short
+        alert(RegExp.lastParen);        //s
+        alert(RegExp.multiline);        //false
+    }
+</script>

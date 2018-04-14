@@ -191,6 +191,9 @@
     <Content Include="5\ObjectTypeExample01.html" />
     <Content Include="5\ObjectTypeExample02.html" />
     <Content Include="5\ObjectTypeExample04.html" />
+    <Content Include="5\RegExpConstructorPropertiesExample01.html" />
+    <Content Include="5\RegExpConstructorPropertiesExample02.html" />
+    <Content Include="5\RegExpConstructorPropertiesExample03.html" />
     <Content Include="5\RegExpExecExample01.html" />
     <Content Include="5\RegExpExecExample02.html" />
     <Content Include="5\RegExpInstancePropertiesExample01.html" />
