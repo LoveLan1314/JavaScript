@@ -188,6 +188,7 @@
     <Content Include="5\DateTypeExample01.html" />
     <Content Include="5\DateTypeUTCExample01.html" />
     <Content Include="5\DateTypeValueOfExample01.html" />
+    <Content Include="5\FunctionTypeExample01.html" />
     <Content Include="5\ObjectTypeExample01.html" />
     <Content Include="5\ObjectTypeExample02.html" />
     <Content Include="5\ObjectTypeExample04.html" />
