@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    alert(sum(10, 10));
+    function sum(num1, num2) {
+        return num1 + num2;
+    }
+    //以下代码会在运行期间产生错误
+    var sum = function (num1, num2) {
+        return num1 + num2;
+    }
+</script>
