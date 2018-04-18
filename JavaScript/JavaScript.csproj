@@ -191,10 +191,15 @@
     <Content Include="5\FunctionAsAnArgumentExample01.html" />
     <Content Include="5\FunctionDeclarationExample01.html" />
     <Content Include="5\FunctionReturningFunctionExample01.html" />
+    <Content Include="5\FunctionTypeApplyMethodExample01.html" />
     <Content Include="5\FunctionTypeArgumentsCallerExample01.html" />
     <Content Include="5\FunctionTypeArgumentsCallerExample02.html" />
     <Content Include="5\FunctionTypeArgumentsExample01.html" />
+    <Content Include="5\FunctionTypeBindMethodExample01.html" />
+    <Content Include="5\FunctionTypeCallExample01.html" />
+    <Content Include="5\FunctionTypeCallMethodExample01.html" />
     <Content Include="5\FunctionTypeExample01.html" />
+    <Content Include="5\FunctionTypeLengthPropertyExample01.html" />
     <Content Include="5\FunctionTypeThisExample01.html" />
     <Content Include="5\ObjectTypeExample01.html" />
     <Content Include="5\ObjectTypeExample02.html" />
