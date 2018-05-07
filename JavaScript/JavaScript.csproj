@@ -213,6 +213,14 @@
     <Content Include="5\RegExpExecExample02.html" />
     <Content Include="5\RegExpInstancePropertiesExample01.html" />
     <Content Include="5\RegExpToStrngExample01.html" />
+    <Content Include="5\StringTypeCaseMethodExample01.html" />
+    <Content Include="5\StringTypeExample01.html" />
+    <Content Include="5\StringTypeFromCharCodeExample01.html" />
+    <Content Include="5\StringTypeLocaleCompareExample01.html" />
+    <Content Include="5\StringTypeLocationMethodsExample01.html" />
+    <Content Include="5\StringTypeLocationMethodsExample02.html" />
+    <Content Include="5\StringTypeManipulationMethodsExample01.html" />
+    <Content Include="5\StringTypePatternMatchingExample01.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

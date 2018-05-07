@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    var stringValue = "Lorem ipsum dolor sit amet, consectetur adipiscing elit";
+    var positions = new Array();
+    var pos = stringValue.indexOf("e");
+
+    while (pos > -1) {
+        positions.push(pos);
+        pos = stringValue.indexOf("e", pos + 1);
+    }
+
+    alert(positions);           //"3,24,32,35,52"
+</script>
