@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    var uri = "http://www.wrox.com/illegal value.htm#start";
+
+    alert(encodeURI(uri));              //"http://www.wrox.com/illegal%20value.htm#start"
+
+    alert(encodeURIComponent(uri));     //"http%3A%2F%2Fwww.wrox.com%2Fillegal%20value.htm%23start"
+
+    var url = "http%3A%2F%2Fwww.wrox.com%2Fillegal%20value.htm%23start";
+
+    alert(decodeURI(uri));              //"http%3A%2F%2Fwww.wrox.com%2Fillegal value.htm%23start"
+
+    alert(decodeURIComponent(uri));     //"http://www.wrox.com/illegal value.htm#start"
+</script>

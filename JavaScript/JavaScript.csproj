@@ -202,6 +202,8 @@
     <Content Include="5\FunctionTypeExample01.html" />
     <Content Include="5\FunctionTypeLengthPropertyExample01.html" />
     <Content Include="5\FunctionTypeThisExample01.html" />
+    <Content Include="5\GlobalObjectURIEncodingExample01.html" />
+    <Content Include="5\GlobalObjectWindowExample01.html" />
     <Content Include="5\NumberTypeExample01.html" />
     <Content Include="5\ObjectTypeExample01.html" />
     <Content Include="5\ObjectTypeExample02.html" />
