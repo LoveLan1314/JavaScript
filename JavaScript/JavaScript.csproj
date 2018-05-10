@@ -228,6 +228,12 @@
     <Content Include="5\StringTypeLocationMethodsExample02.html" />
     <Content Include="5\StringTypeManipulationMethodsExample01.html" />
     <Content Include="5\StringTypePatternMatchingExample01.html" />
+    <Content Include="6\AccessorPropertiesExample01.html" />
+    <Content Include="6\AccessorPropertiesExample02.html" />
+    <Content Include="6\CreatingObjectsExample01.html" />
+    <Content Include="6\DataProperiesExample03.html" />
+    <Content Include="6\DataPropertiesExample01.html" />
+    <Content Include="6\DataPropertiesExample02.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

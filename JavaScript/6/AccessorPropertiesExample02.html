@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script>
+        var book = {
+            _year: 2004,
+            edition: 1
+        };
+
+        //定义访问器的旧有方法
+        book._defineGetter_("year", function () {
+            return this._year;
+        });
+
+        book._defineSetter_("year", function (newValue) {
+            if (newValue > 2004) {
+                this._year = newValue;
+                this.edition += newValue - 2004;
+            }
+        });
+
+        book.year = 2005;
+        alert(book.edition);        //2
+    </script>
+</body>
+</html>
