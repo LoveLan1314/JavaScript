@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script>
+        // 当作构造函数使用
+        var person = new Person("Nicholas", 29, "Software Engineer");
+        person.sayName();           //"Nicholas"
+
+        // 作为普通函数使用
+        Person("Greg", 27, "Doctor");       //添加到window
+        window.sayName();           //"Greg"
+
+        // 在另一个对象的作用域中调用
+        var o = new Object();
+        Person.call(o, "Kristen", 25, "Nurse");
+        o.sayName();                //"Kristen"
+    </script>
+</body>
+</html>

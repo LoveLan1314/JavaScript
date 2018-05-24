@@ -230,6 +230,9 @@
     <Content Include="5\StringTypePatternMatchingExample01.html" />
     <Content Include="6\AccessorPropertiesExample01.html" />
     <Content Include="6\AccessorPropertiesExample02.html" />
+    <Content Include="6\ConstructorPatternExample01.html" />
+    <Content Include="6\ConstructorPatternExample02.html" />
+    <Content Include="6\ConstructorPatternExample03.html" />
     <Content Include="6\CreatingObjectsExample01.html" />
     <Content Include="6\DataProperiesExample03.html" />
     <Content Include="6\DataPropertiesExample01.html" />
