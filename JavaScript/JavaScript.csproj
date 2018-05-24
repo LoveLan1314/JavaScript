@@ -234,6 +234,7 @@
     <Content Include="6\DataProperiesExample03.html" />
     <Content Include="6\DataPropertiesExample01.html" />
     <Content Include="6\DataPropertiesExample02.html" />
+    <Content Include="6\MultiplePropertiesExample01.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
