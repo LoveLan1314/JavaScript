@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script>
+        function Person() {
+
+        }
+
+        Person.prototype = {
+            name: "Nicholas",
+            age: 29,
+            job: "Software Engineer",
+            sayName: function () {
+                alert(this.name);
+            }
+        }
+
+        var friend = new Person();
+
+        alert(friend instanceof Object);        //true
+        alert(friend instanceof Person);        //true
+        alert(friend.constructor == Person);        //false
+        alert(friend.constructor == Object);        //true
+
+        function Person() {
+
+        }
+
+        Person.prototype = {
+            constructor: Person,        //确保通过constructor值能访问到适当的值
+            name: "Nicholas",
+            age: 29,
+            job: "Software Engineer",
+            sayName: function () {
+                alert(this.name);
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script>
+        function Person() {
+
+        }
+
+        Person.prototype.name = "Nicholas";
+        Person.prototype.age = 29;
+        Person.prototype.job = "Software Engineer";
+        Person.prototype.sayName = function () {
+            alert(this.name);
+        }
+
+        var keys = Object.getOwnPropertyNames(Person.prototype);
+        alert(keys);        //"constructor,name,age,job,sayName"
+    </script>
+</body>
+</html>

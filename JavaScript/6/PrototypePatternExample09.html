@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script>
+        var friend = new Person();
+
+        Person.prototype.sayHi = function () {
+            alert("hi");
+        };
+
+        friend.sayHi();     //"hi" (没有问题！)
+    </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script>
+        function Person() {
+
+        }
+
+        Person.prototype.name = "Nicholas";
+        Person.prototype.age = 29;
+        Person.prototype.job = "Software Engineer";
+        Person.prototype.sayName = function () {
+            alert(this.name);
+        }
+
+        var person1 = new Person();
+        var person2 = new Person();
+
+        person1.name = "Greg"
+        alert(person1.name);        //"Greg" —来自实例
+        alert(person2.name);        //"Nicholas" —来自原型
+    </script>
+</body>
+</html>
