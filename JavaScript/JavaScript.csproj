@@ -237,6 +237,7 @@
     <Content Include="6\DataProperiesExample03.html" />
     <Content Include="6\DataPropertiesExample01.html" />
     <Content Include="6\DataPropertiesExample02.html" />
+    <Content Include="6\DynamicPrototypeExample01.html" />
     <Content Include="6\FactoryPatternExample01.html" />
     <Content Include="6\GetPropertyDescriptorExample01.html" />
     <Content Include="6\HybridPatternExample01.html" />
