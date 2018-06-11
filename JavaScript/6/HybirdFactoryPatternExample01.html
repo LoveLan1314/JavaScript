@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script>
+        function Person(name, age, job) {
+            var o = new Object();
+            o.name = name;
+            o.age = age;
+            o.job = job;
+            o.sayName = function () {
+                alert(this.name);
+            };
+            return o;
+        }
+
+        var friend = new Person("Nicholas", 29, "Software Engineer");
+        friend.sayName();       //"Nicholas"
+    </script>
+</body>
+</html>

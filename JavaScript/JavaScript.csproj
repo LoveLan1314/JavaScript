@@ -240,6 +240,8 @@
     <Content Include="6\DynamicPrototypeExample01.html" />
     <Content Include="6\FactoryPatternExample01.html" />
     <Content Include="6\GetPropertyDescriptorExample01.html" />
+    <Content Include="6\HybirdFactoryPatternExample01.html" />
+    <Content Include="6\HybridFactoryPatternExample02.html" />
     <Content Include="6\HybridPatternExample01.html" />
     <Content Include="6\MultiplePropertiesExample01.html" />
     <Content Include="6\ObjectKeysExample01.html" />
