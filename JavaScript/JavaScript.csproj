@@ -239,6 +239,7 @@
     <Content Include="6\DataPropertiesExample02.html" />
     <Content Include="6\FactoryPatternExample01.html" />
     <Content Include="6\GetPropertyDescriptorExample01.html" />
+    <Content Include="6\HybridPatternExample01.html" />
     <Content Include="6\MultiplePropertiesExample01.html" />
     <Content Include="6\ObjectKeysExample01.html" />
     <Content Include="6\ObjectPropertyNamesExample01.html" />
